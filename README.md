@@ -1,6 +1,6 @@
 # LearnAI-project
 
-Hello
+Project ideas
 
 1. hate speech/fake news detector
 2. medical imaging diagnoser
