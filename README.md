@@ -1,9 +1,9 @@
 # LearnAI-project
 
-Project ideas
+Covid and non covid lungs CT scan image classificatio
 
-1. hate speech/fake news detector
-2. medical imaging diagnoser
-3. spotify playlist maker
-4. grocery planner (to do: find a related topic more appropriate for AI)
-5. game ai player
+## How do get datasets
+1. dowload the data folders named "1NonCOVID" and "2COVID" (they are located under curated_data folder) from the link below
+https://www.kaggle.com/maedemaftouni/large-covid19-ct-slice-dataset
+2. upload the folders to google drive
+
